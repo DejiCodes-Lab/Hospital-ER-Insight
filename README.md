@@ -23,7 +23,7 @@ Contrary to standard office hours, the ER experiences its highest volume of pati
 ### 2. High-Acuity Environment
 With an admission rate of **50.04%**, this facility functions as a high-intensity clinical environment rather than a typical walk-in urgent care center, requiring high resource availability per patient.
 
-### 4. Referral Bottlenecks
+### 3. Referral Bottlenecks
 Nearly **75% of all specialist referrals** are directed to just two departments, creating a massive queue for specific consultants:
 * **General Practice:** 48%
 * **Orthopedics:** 26%
