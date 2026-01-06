@@ -8,7 +8,7 @@ The goal was to move beyond simple reporting and provide **actionable healthcare
 ---
 
 ## 📂 How to Access the Dashboard
-1. **Static View:** See the [Dashboard Screenshot](images/Er-dashboard.png) above for a quick preview.
+1. **Static View:** See the [Dashboard Screenshot](images/Er-dashboard.PNG) above for a quick preview.
 2. **Interactive View:** Download the `Hospital ER Dashboard.pbix` file from the `/reports` folder. 
    *(Requires Power BI Desktop to open)*.
 
